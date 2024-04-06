@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1044397410226",
+    "project_id": "quizup-1e08c",
+    "storage_bucket": "quizup-1e08c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044397410226:android:8ccee0e885d8c724aa86ab",
+        "android_client_info": {
+          "package_name": "com.example.quizup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkxx2fob5TDquWmK5J3DhfDnsG6OBxDpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
